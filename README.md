@@ -1,1 +1,1 @@
-#Bank Account application using React-Flux-TypeScript
+# Bank Account application using React-Flux-TypeScript
